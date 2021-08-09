@@ -9,6 +9,6 @@
 - Vuex
 - React.js
 - Redux
-- Angular.
+- Angular
 
 - 🌱 I’m interested in new technologies and great ideas.
