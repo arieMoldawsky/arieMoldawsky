@@ -7,7 +7,7 @@
 - Node.js
 - Vue.js
 - Vuex
-- React.js
+- React.js ⚛
 - Redux
 - Angular
 
