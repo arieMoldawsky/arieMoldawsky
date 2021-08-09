@@ -5,10 +5,10 @@
 - using the latest WEB technologies such as
 - Modern JavaScript
 - Node.js
-- Vue.js
+- Vue.js 🇻
 - Vuex
 - React.js ⚛
 - Redux
-- Angular
+- Angular 🅰️
 
 - 🌱 I’m interested in new technologies and great ideas.
